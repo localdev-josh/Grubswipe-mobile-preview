@@ -1,6 +1,6 @@
 # Grubswipe-mobile-preview: A food ordering application [![PRs Welcome](https://img.shields.io/twitter/follow/joshcrevtor.svg?style=flat-square)](http://makeapullrequest.com) [![Twitter Follow](https://img.shields.io/twitter/follow/joshcrevtor.svg?style=social)](https://twitter.com/joshcrevtor)
 
-A Food ordering mobile application, built using Flutter.<br/><br/>Link to download 
+A Food ordering mobile application, built with Flutter!<br/><br/>Link to download app: https://github.com/localdev-josh/Grubswipe-mobile-preview/raw/main/Grubswipe.apk
 
 ## 📸 ScreenShots
 
