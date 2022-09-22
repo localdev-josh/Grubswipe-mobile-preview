@@ -1,18 +1,6 @@
 # Grubswipe-mobile-preview: A food ordering application [![PRs Welcome](https://img.shields.io/twitter/follow/joshcrevtor.svg?style=flat-square)](http://makeapullrequest.com) [![Twitter Follow](https://img.shields.io/twitter/follow/joshcrevtor.svg?style=social)](https://twitter.com/joshcrevtor)
 
-Flutter representation of a Food ordering Application.
-
-Star⭐ the repo if you like what you see😉
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/joshcrevtor.svg?style=social)](https://twitter.com/joshcrevtor)
-
-
-## ✨ Requirements
-* Any Operating System (ie. MacOS X, Linux, Windows)
-* Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
-* A little knowledge of Dart and Flutter
-* A brain to think 🤓🤓
-
+A Food ordering mobile application, built using Flutter.<br/><br/>Link to download 
 
 ## 📸 ScreenShots
 
@@ -28,5 +16,13 @@ Star⭐ the repo if you like what you see😉
 **Ajiboye Joshua Oluwaseun** [![Twitter Follow](https://img.shields.io/twitter/follow/joshcrevtor.svg?style=social)](https://twitter.com/joshcrevtor)
 
 
-## 🔖 LICENCE
-[WTFPL](http://www.wtfpl.net/about/)
+Star⭐ the repo if you like what you see😉
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/joshcrevtor.svg?style=social)](https://twitter.com/joshcrevtor)
+
+
+## ✨ Requirements
+* Any Operating System (ie. MacOS X, Linux, Windows)
+* Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
+* A little knowledge of Dart and Flutter
+* A brain to think 🤓🤓
